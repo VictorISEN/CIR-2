@@ -1,6 +1,17 @@
 ﻿
 #include<stdlib.h>
 #include<stdio.h>
+
+
+char minuscule(char c) {
+    // Vérifie si le caractère est une majuscule
+    if (c >= 'A' && c <= 'Z') {
+        // Convertit le caractère en minuscule
+        return c + ('a' - 'A');
+    }
+    // Retourne le caractère inchangé s'il n'est pas une majuscule
+    return c;
+}
 int main()
 {
 	printf("Hello World\n");
@@ -42,6 +53,15 @@ int main()
         // Pas de racines réelles
         printf("L'équation n'a pas de racines réelles.\n");
     }
+
+
+
+	//EXO MINUSCULES
+
+        char h = 'G';
+        printf("Le caractère minuscule de %c est %c\n", h, minuscule(h));
+        return 0;
+    
 
     return 0;
 }
