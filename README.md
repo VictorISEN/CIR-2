@@ -22,4 +22,11 @@ Des suggestions ou corrections ? Ouvrez une issue ou proposez une pull request !
 Questions ? Contactez-moi à victor.noel@student.junia.com
 
 📜 Licence
-Ce projet est sous licence MIT. Voir LICENSE pour plus de détails.
+MIT License
+
+Copyright (c) [2024] [Victor Noel]
+
+Par la présente, il est accordé la permission, gratuite et sans restriction, d'utiliser, de copier, de modifier, de fusionner, de publier, de distribuer, de sous-licencier et/ou de vendre des copies du logiciel, à condition que la notification suivante soit incluse dans toutes les copies ou parties substantielles du logiciel.
+
+Le logiciel est fourni "tel quel", sans garantie d'aucune sorte, expresse ou implicite, y compris mais sans se limiter à la garantie implicite de qualité marchande, d'adaptation à un usage particulier et d'absence de contrefaçon. En aucun cas les auteurs ou les détenteurs de droits d'auteur ne peuvent être tenus responsables de toute réclamation, dommage ou autre responsabilité, qu'elle soit en action de contrat, de délit ou autre, découlant de ou en relation avec le logiciel ou l'utilisation ou d'autres transactions dans le logiciel.
+
