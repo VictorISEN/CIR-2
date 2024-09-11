@@ -12,4 +12,4 @@ endif()
 project ("NewRepo2")
 
 # Incluez les sous-projets.
-add_subdirectory ("TP")
+add_subdirectory ("TP 1")
