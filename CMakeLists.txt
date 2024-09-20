@@ -13,3 +13,5 @@ project ("NewRepo2")
 
 # Incluez les sous-projets.
 add_subdirectory ("TP 1")
+add_subdirectory ("OOP_introduction")
+add_subdirectory ("TP 2")

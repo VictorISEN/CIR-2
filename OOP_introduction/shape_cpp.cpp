@@ -7,6 +7,9 @@ unsigned Shape_cpp::global_count_ = 0;
 
 Shape_cpp::Shape_cpp()
 {
+
+	
+
 }
 
 Shape_cpp::~Shape_cpp() {}
