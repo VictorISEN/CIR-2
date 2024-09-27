@@ -1,0 +1,6 @@
+test du fichier texte 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel nulla ac orci posuere dignissim. Ut blandit facilisis metus, eu fermentum augue lobortis ut. Vestibulum sit amet eros scelerisque, congue risus et, pellentesque dui. Etiam vel ligula rutrum, interdum lectus ut, scelerisque ante. Maecenas lacus ex, vestibulum non aliquet non, luctus ac ligula. Nulla condimentum felis ut massa sagittis luctus. Aenean tempus porttitor fermentum. Nunc sed molestie eros.
+
+Ut id purus ex. Nullam sed lorem iaculis, pulvinar felis eu, lacinia est. Aliquam a massa et lorem maximus varius eget quis sem. Donec a auctor nunc. Nunc at suscipit orci. Nulla sagittis et sem non commodo. Phasellus imperdiet vel leo non maximus. Suspendisse potenti.
+
+Morbi scelerisque nec tortor id condimentum. Morbi id ultricies urna. Donec felis dui, bibendum a sem sed, mattis imperdiet arcu. Pellentesque nibh mi, euismod lobortis suscipit at, aliquet sed nisi. Vivamus posuere ullamcorper dolor sed mollis. Maecenas et ullamcorper nisl. Curabitur sodales.
