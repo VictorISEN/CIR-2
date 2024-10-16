@@ -19,6 +19,7 @@ struct Shape_cpp
 	virtual ~Shape_cpp();
 };
 
+
 struct Rectangle : Shape_cpp
 {
 	float length_;
@@ -46,4 +47,7 @@ struct Circle : Shape_cpp
 	void print_data();
 	Circle(const float &radius);
 };
+
+
+
 
